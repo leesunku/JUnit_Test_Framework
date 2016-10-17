@@ -23,4 +23,7 @@
 ##### 테스트할 메소드 선택 후 > Fininsh
 ##### 테스트 코드가 생성된다. 다음 설명부터는 예제에서 하겠습니다.
 
-##### 참고 출처 -> Nextree = http://www.nextree.co.kr/p11104/
+##### 참고 출처 ->
+##### https://github.com/junit-team/junit4
+##### http://www.nextree.co.kr/p11104/
+##### http://using.tistory.com/54
